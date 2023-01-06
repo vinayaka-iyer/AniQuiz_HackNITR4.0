@@ -1,13 +1,18 @@
 import React, { useEffect, useState } from "react";
 import data from "../database/data";
 
+/** custom hook */
+import { useFetchQuestion } from "../hooks/FetchQuestion";
+
 const Questions = () => {
   const [checked, setChecked] = useState(undefined);
-
+  const [{ isLoading, apiData, serverError }] = useFetchQuestion();
   const question = data[0];
 
   useEffect(() => {
-    // console.log(question);
+    console.log(isLoading);
+    // console.log(apiData);
+    // console.log(serverError);
   });
 
   const onSelect = () => {
