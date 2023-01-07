@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import "../styles/Main.css";
 import { setUserId } from "../redux/result_reducer";
-import controllergif from "../controller.gif";
+import controllergif from "../assets/controller.gif";
 
 const Main = () => {
   const inputRef = useRef(null);
