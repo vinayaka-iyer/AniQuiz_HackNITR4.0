@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import "../styles/Main.css";
 import { setUserId } from "../redux/result_reducer";
+import controllergif from "../controller.gif";
 
 const Main = () => {
   const inputRef = useRef(null);
@@ -17,6 +18,7 @@ const Main = () => {
   return (
     <div className="container">
       <h1 className="title text-light">AniQuiz</h1>
+      <img className="gif" src={controllergif} alt="" />
       <ol>
         <li>The quiz consists of 10 Questions.</li>
         <li>10 points is awarded for each correct answer.</li>

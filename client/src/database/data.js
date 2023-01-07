@@ -28,13 +28,45 @@ export default [
   {
     id: 5,
     question: "Which one of the following series is about time travel?",
+    options: ["Steins;Gate", "91 Days", "Berserk", "Kingdom"],
+  },
+  {
+    id: 6,
+    question:
+      "As of 2022, what is the highest-grossing anime movies of all time?",
     options: [
-      "Steins;Gate",
-      "Darker than Black",
-      "City Hunter",
-      "Devilman Crybaby",
+      "Howl’s Moving Castle",
+      "Your Name",
+      "Demon Slayer: Mugen Train",
+      "Jujutso Kaisen 0",
     ],
+  },
+  {
+    id: 7,
+    question: "Which anime series is set in the world of Amestris?",
+    options: ["Naruto", "Full Metal Alchemist", "Pokemon", "Made in Abyss"],
+  },
+  {
+    id: 8,
+    question: "What is Saitama’s superhero name in the association?",
+    options: ["One Punch Man", "Bald Cape", "Saitama", "Egg Head"],
+  },
+  {
+    id: 9,
+    question:
+      "What is the name of Part 4 of the famous anime series 'Jojo's Bizzare Adventure'?",
+    options: [
+      "Stardust Crusaders",
+      "Stone Ocean",
+      "Golden Wind",
+      "Diamond is Unbreakable",
+    ],
+  },
+  {
+    id: 10,
+    question: "What is the genre of anime that caters to young women called?",
+    options: ["Shounen", "Seinen", "Shoujo", "Josei"],
   },
 ];
 
-export const answers = [3, 0, 1, 0, 0];
+export const answers = [3, 0, 1, 0, 0, 2, 1, 1, 3, 2];
