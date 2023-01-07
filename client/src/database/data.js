@@ -36,3 +36,5 @@ export default [
     ],
   },
 ];
+
+export const answers = [3, 0, 1, 0, 0];
