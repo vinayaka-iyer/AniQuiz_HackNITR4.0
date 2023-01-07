@@ -1,10 +1,11 @@
 <div align="center">
-      <h1> <img src="https://www.essentiallysports.com/stories/best-sports-games-to-play-on-playstation-xbox-and-pc-news-esports/assets/13.gif" width="80px"><br/>AniQuiz</h1>
+      <h1>AniQuiz</h1>
+      <img src="https://snipboard.io/EvTi0d.jpg" width="80px">
      </div>
 
 
 # Description
-AniQuiz is a simple and intuitive quiz web app. The questions are centered around popular anime trivia. It is a multiple choice quiz app, consisting of 10 questions with 4 options and single correct answer. The user can navigate to the previous questions as well and change their answer if they wish to before submission. Once the quiz is submitted, the User's obtained points and  number of questions attempted is displayed. Result is calculated and 50% of marks is required to pass the quiz.
+AniQuiz is a simple and intuitive quiz web app. The questions are centered around popular anime trivia. It is a multiple choice quiz app, consisting of 10 questions with 4 options and single correct answer. The user can navigate to the previous questions and change their answer if they wish to before submission. Once the quiz is submitted, the User's obtained points and  number of questions attempted is displayed. Result is calculated and 50% of marks is required to pass the quiz.
 
 # Features
 - Simple and intuitive design
@@ -19,10 +20,10 @@ AniQuiz is a simple and intuitive quiz web app. The questions are centered aroun
       
 # More Details:
 This application was made as a submission to HackNITR 4.0
+<br>
 There were plans to add a backend and several more features but could not be added due to time crunch. 
 
 ### How to Setup:
 - Step 1: Download the Zip of the repository
 - Step 2: Open terminal and run 'npm install'
 - Step 3: run 'npm start'
-    
