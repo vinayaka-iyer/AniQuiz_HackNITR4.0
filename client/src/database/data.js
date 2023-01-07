@@ -13,12 +13,17 @@ export default [
   {
     id: 3,
     question: " Which sport is the focus of ‘Eyeshield 21’?",
-    options: ["Baseball", "American Football", "Tenni Soccer"],
+    options: ["Baseball", "American Football", "Tennis", "Soccer"],
   },
   {
     id: 4,
-    question: "What does the toString() method return?",
-    options: ["Return Object", "Return String", "Return Integer"],
+    question: "Dragon Ball’ was created by who in 1984?",
+    options: [
+      "Akira Toriyama",
+      "Satoshi Tajiri",
+      "Hirohiko Araki",
+      "Hayao Miyazaki",
+    ],
   },
   {
     id: 5,
