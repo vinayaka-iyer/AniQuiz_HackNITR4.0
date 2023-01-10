@@ -6,6 +6,8 @@
 
 # Description
 AniQuiz is a simple and intuitive quiz web app. The questions are centered around popular anime trivia. It is a multiple choice quiz app, consisting of 10 questions with 4 options and single correct answer. The user can navigate to the previous questions and change their answer if they wish to before submission. Once the quiz is submitted, the User's obtained points and  number of questions attempted is displayed. Result is calculated and 50% of marks is required to pass the quiz.
+<br>
+### Live Demo: https://aniquizapp.netlify.app/
 
 # Features
 - Simple and intuitive design
