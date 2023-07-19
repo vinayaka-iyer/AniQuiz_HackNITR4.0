@@ -1,6 +1,5 @@
 <div align="center">
       <h1>AniQuiz</h1>
-      <img src="https://snipboard.io/EvTi0d.jpg" width="80px">
      </div>
 
 
